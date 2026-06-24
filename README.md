@@ -5,8 +5,8 @@ DocuSearch is an asynchronous documentation utility engineered with React. It dr
 
 ## Preview
 ----------------------------------------------------
-![]
-![]
+![]()
+![]()
 
 ##  Technical Highlights
 *  **Compound Multi-Property Tokenization:** Performs real-time scanning filters across array objects by checking titles, text code syntax parameters, and explanation text fields inside single execution loops.
