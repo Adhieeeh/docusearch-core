@@ -5,8 +5,8 @@ DocuSearch is an asynchronous documentation utility engineered with React. It dr
 
 ## Preview
 ----------------------------------------------------
-![]()
-![]()
+![](ds1.png)
+![](ds2.png)
 
 ##  Technical Highlights
 -----------------------------------------------
