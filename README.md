@@ -1,5 +1,5 @@
 #  DocuSearch — Technical Snippet Command Center & Search Indexer
-
+-------------------------------------------------------------------------
 
 DocuSearch is an asynchronous documentation utility engineered with React. It drives an optimized compound search algorithm capable of filtering objects across multiple properties simultaneously, utilizing local browser storage registers to maintain user reference vault anchors.
 
