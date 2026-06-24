@@ -15,5 +15,7 @@ DocuSearch is an asynchronous documentation utility engineered with React. It dr
 *  **Dynamic Clipboard Processing:** Synthesizes raw text template strings from data objects to fire native system clipboard mutations without layout flickering.
 
 ##  Running Instructions
+
+
 1. Install packages: `npm install`
 2. Run ecosystem: `npm run dev`
